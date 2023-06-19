@@ -1,0 +1,4 @@
+repository "TestingSystem@eresinalara@cloud"
+  path "/"
+    br "/main"
+    co "/main"
